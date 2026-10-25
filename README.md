@@ -2,6 +2,8 @@
 
 **Fullstack web developer & data analyst** · Informatics Engineering student at Esa Unggul University, Jakarta (GPA 3.89)
 
+🌐 **Portfolio: [ffyzhra.github.io](https://ffyzhra.github.io)**
+
 I build structured, user-focused web applications, from the database schema to the last button. Previously an intern at **Kominfotik West Jakarta** (Cyber Applications & Statistics), working on the city's PPID website, the PINTAR coordination platform and the West Jakarta statistics dashboard.
 
 ## 🛠 Tech stack
@@ -31,4 +33,4 @@ I build structured, user-focused web applications, from the database schema to t
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ffyzhra) · [Email](mailto:fayzaazz05@gmail.com) · [Instagram](https://www.instagram.com/_fyzhra)
+[Portfolio](https://ffyzhra.github.io) · [LinkedIn](https://www.linkedin.com/in/ffyzhra) · [Email](mailto:fayzaazz05@gmail.com) · [Instagram](https://www.instagram.com/_fyzhra)
